@@ -11,9 +11,9 @@
     <dd>
         Pada dasarnya, design pattern dibagi menjadi 3 bagian, yaitu :
     </dd>
-    1. Creational.
-    2. Struktural.
-    3. Behavioral.
-
 </dl>
+
+1. Creational
+2. Struktural
+3. Behavioral
 

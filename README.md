@@ -21,15 +21,15 @@
 1. **Creational**
     - Di dalam pengembangan software, creational design patterns adalah sebuah design pattern yang berhubungan dengan mekanisme pembuatan suatu objek.
     - Ada beberapa Creational design pattern sbb :
-    1.1 Abstract Factory
-    1.2 Builder
-    1.3 Factory Method
-    1.4 Multiton
-    1.5 Pool
-    1.6 Prototype
-    1.7 Simple Factory
-    1.8 Singleton
-    1.9 Static Factory
+    1. Abstract Factory
+    2. Builder
+    3. Factory Method
+    4. Multiton
+    5. Pool
+    6. Prototype
+    7. Simple Factory
+    8. Singleton
+    9. Static Factory
 
 2. **Structural**
 

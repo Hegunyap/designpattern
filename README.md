@@ -1,6 +1,5 @@
 # Design Pattern
-================
-Belajar Design Pattern menggunakan PHP
+### Belajar Design Pattern menggunakan PHP
 
 <dl>
     <dt>Apa yang dimaksud dengan Design Pattern?</dt>

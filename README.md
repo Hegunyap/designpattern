@@ -18,7 +18,7 @@
 3. Behavioral
 ---
 
-1. Creational
+1. **Creational**
     - Di dalam pengembangan software, creational design patterns adalah sebuah design pattern yang berhubungan dengan mekanisme pembuatan suatu objek.
     - Ada beberapa Creational design pattern sbb :
     1.1 Abstract Factory
@@ -31,4 +31,6 @@
     1.8 Singleton
     1.9 Static Factory
 
-2. Structural
+2. **Structural**
+
+3. **Behavioral**
